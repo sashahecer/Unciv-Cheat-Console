@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Civilian",
+    "movementType": "Land",
+    "uniques": [
+      "Triggers a [Cheat Console] event <for [Human player] Civilizations> <with [100] priority>"
+    ]
+  }
+]

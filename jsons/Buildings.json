@@ -1,0 +1,11 @@
+[
+  {
+    "name": "Cheat Monument Wonder",
+    "cost": 999999,
+    "isWonder": true,
+    "uniques": [
+      "Unbuildable",
+      "Gain a free [Monument] [in all cities]"
+    ]
+  }
+]

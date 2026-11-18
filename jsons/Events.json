@@ -1,0 +1,93 @@
+[
+  {
+    "name": "Cheat Console",
+    "text": "Чит-меню — выбери нужное действие:",
+    "presentation": "Alert",
+    "choices": [
+      {
+        "text": "+100 золота",
+        "uniques": [
+          "Only available <for [Human player] Civilizations>",
+          "Gain [100] [Gold]"
+        ]
+      },
+      {
+        "text": "+500 золота",
+        "uniques": [
+          "Only available <for [Human player] Civilizations>",
+          "Gain [500] [Gold]"
+        ]
+      },
+      {
+        "text": "+100 культуры",
+        "uniques": [
+          "Only available <for [Human player] Civilizations>",
+          "Gain [100] [Culture]"
+        ]
+      },
+      {
+        "text": "+500 культуры",
+        "uniques": [
+          "Only available <for [Human player] Civilizations>",
+          "Gain [500] [Culture]"
+        ]
+      },
+      {
+        "text": "+100 веры",
+        "uniques": [
+          "Only available <for [Human player] Civilizations>",
+          "Gain [100] [Faith]"
+        ]
+      },
+      {
+        "text": "+500 веры",
+        "uniques": [
+          "Only available <for [Human player] Civilizations>",
+          "Gain [500] [Faith]"
+        ]
+      },
+      {
+        "text": "+100 науки",
+        "uniques": [
+          "Only available <for [Human player] Civilizations>",
+          "Gain [100] [Science]"
+        ]
+      },
+      {
+        "text": "+500 науки",
+        "uniques": [
+          "Only available <for [Human player] Civilizations>",
+          "Gain [500] [Science]"
+        ]
+      },
+      {
+        "text": "Открыть всю карту",
+        "uniques": [
+          "Only available <for [Human player] Civilizations>",
+          "Reveals the entire map"
+        ]
+      },
+      {
+        "text": "Получить механизированную пехоту",
+        "uniques": [
+          "Only available <for [Human player] Civilizations>",
+          "Free [Mechanized Infantry] appears"
+        ]
+      },
+      {
+        "text": "+1 население в этом городе (юнит должен стоять на клетке города)",
+        "uniques": [
+          "Only available <for [Human player] Civilizations>",
+          "[1] population [in this city]"
+        ]
+      },
+      {
+        "text": "Построить чудо, дающее бесплатный монумент в каждом городе",
+        "uniques": [
+          "Only available <for [Human player] Civilizations>",
+          "Gain a free [Cheat Monument Wonder] [in this city]"
+        ]
+      }
+    ]
+  }
+]
